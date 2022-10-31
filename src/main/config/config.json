@@ -1,0 +1,12 @@
+{
+  "hubAddress":"localhost",
+  "hubPort":55333,
+  "copilotCount": 1,
+  "cycleCount": 1000000,
+  "keepRunning": true,
+  "randomCycleCount": false,
+  "_startDate":" 2019-1-14",
+  "startTime":"PT-1H",
+  "endTime":"P0D",
+  "_jobTime":"PT30M"
+}
